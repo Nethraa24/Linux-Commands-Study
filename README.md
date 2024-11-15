@@ -20,6 +20,9 @@ ls
 
 **Output:**
 
+![image](https://github.com/user-attachments/assets/fdb24aa7-ebd8-42c0-a3f6-0227c36b181b)
+
+
 ### 2. `pwd` Command
 
 The `pwd` command displays the location of the current working directory.
@@ -30,6 +33,9 @@ pwd
 ```
 
 **Output:**
+
+![image](https://github.com/user-attachments/assets/9749407d-cf08-4e1b-bc6e-51a5579d9626)
+
 
 ### 3. `mkdir` Command
 
@@ -42,6 +48,9 @@ mkdir <directory_name>
 
 **Output:**
 
+![image](https://github.com/user-attachments/assets/ae7f50c2-418d-4980-b413-f7fb95d08796)
+
+
 ### 4. `rmdir` Command
 
 The `rmdir` command is used to delete a directory.
@@ -53,6 +62,9 @@ rmdir <directory_name>
 
 **Output:**
 
+![image](https://github.com/user-attachments/assets/74d02631-e866-4a88-9368-4f1dbbd30258)
+
+
 ### 5. `cd` Command
 
 The `cd` command is used to change the current directory.
@@ -63,6 +75,9 @@ cd <directory_name>
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/dd3dad33-960b-4227-b2fe-d649780bb958)
+
+
 
 ### 6. `cat` Command
 
@@ -74,6 +89,9 @@ cat [OPTION]... [FILE]...
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/a1880a9c-2a33-457f-9bde-e292914a0919)
+
+
 
 ### 7. `cp` Command
 
