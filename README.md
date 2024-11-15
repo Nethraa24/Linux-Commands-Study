@@ -181,6 +181,10 @@ id
 
 **Output:**
 
+![image](https://github.com/user-attachments/assets/cbcbf7c8-64cd-4637-b863-e59d3b45a758)
+
+
+
 ### 15. `grep` Command
 
 The `grep` command is used to search for a pattern within files.
@@ -191,6 +195,9 @@ command | grep <search_word>
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/597c8968-6645-4858-9509-25ea32331fa0)
+
+
 
 ### 16. `tr` Command
 
@@ -202,6 +209,9 @@ command | tr <old> <new>
 ```
 
 **Output:**
+
+![image](https://github.com/user-attachments/assets/38935d2d-d4ea-4442-abaa-264a7fafe7a1)
+
 
 ### 17. `chmod` Command
 
@@ -258,6 +268,10 @@ ifconfig [options] [interface]
 
 **Output:**
 
+host![image](https://github.com/user-attachments/assets/febf63b9-e9ea-4d46-8743-723812450fcc)
+
+
+
 ### 22. `chmod 777` Command
 
 The `chmod 777` command gives read, write, and execute permissions to the owner, group, and others.
@@ -281,6 +295,9 @@ host <domain_name> or <ip_address>
 
 **Output:**
 
+![image](https://github.com/user-attachments/assets/744e8e0d-c865-4f70-89d6-c0e8f1118dc1)
+
+
 ### 24. `gzip` Command
 
 The `gzip` command is used to compress files, replacing the original file with a compressed one with a `.gz` extension.
@@ -299,7 +316,7 @@ The `sort` command is used to sort the contents of a file alphabetically.
 **Syntax:**
 ```bash
 sort <file_name>
-```
+``` 
 
 **Output:**
 
@@ -347,6 +364,9 @@ df
 
 **Output:**
 
+![image](https://github.com/user-attachments/assets/c4a4eeeb-6562-4cd4-a46e-81c314473190)
+
+
 ### 30. `find` Command
 
 The `find` command is used to search for files in a directory hierarchy.
@@ -357,5 +377,8 @@ find <directory> -name <file_name>
 ```
 
 **Output:**
+
+![image](https://github.com/user-attachments/assets/be49d6c9-8368-48e2-b0a2-e3efa0557d6f)
+
 
 ## Result
